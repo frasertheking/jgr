@@ -4,7 +4,7 @@ Data and primary scripts that were used in the creation of this article can be f
 
 ## Data
 
-###CloudSat
+### CloudSat
 
 The 2C-SNOW-PROFILE used to extract snowfall rate information is publically available for download [here](http://www.cloudsat.cira.colostate.edu/data-products/level-2c/2c-snow-profile).
 
